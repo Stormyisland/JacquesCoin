@@ -13,7 +13,7 @@ second_block = Block(genesis_block.block_hash,["Satoshi sent 3 BTC theodore!"
 
 third_block =Block(second_block.block_hash, ["Satoshi sent 30 BTC theodore!"
                                             "Satoshi sent 60  BTC jacques!"
-                                            "Satoshi sent 3 BTC to bill!"])
+                                            "Satoshi sent 3 BTC to billy!"])
 
 print("Block hash: Genesis Block 1")
 print(genesis_block.block_hash)
